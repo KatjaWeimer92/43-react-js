@@ -13,6 +13,7 @@ root.render(
   <React.StrictMode>
     <>
     <App />
+    <App/>
     {/*<Lesson02/>*/}
     {/*<Lesson01/>*/}
      {/*<MyForm/>*/}
