@@ -77,3 +77,5 @@ for (let i = 0; i < arrayExample.length; i++) {
 console.log(arrayResult);
 
 //Самостоятельная задача. Сделать задачу 3 с помощью декларативного подхода
+let arrayResult2 = arrayExample.filter(item => item != element)
+console.log(arrayResult2);
