@@ -10,7 +10,7 @@ export default function Lesson04() {
       {/* итерируемся по массиву объектов и выводим данные по ключам */}
       {forceUsers.map((hero, index) => (
         // для обертки над итерируемой версткой указываем props key с уникальным значением. это технические данные, который просит react
-        <div key={index}>
+        <div className='isDark' key={index}>
           <h4>{hero.name}</h4>
           <p>Age: {hero.age}</p>
           <img width={200} src={hero.image} alt="" />
