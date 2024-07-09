@@ -21,8 +21,8 @@ root.render(
      {/*<MyForm/>*/}
      {/*<Counter/>*/}
      {/*<Homework04/>*/}
-     <Homework02/>
-     {/*<Lesson04/>*/}
+     {/*<Homework02/>*/}
+     <Lesson04/>
     </>
     
   </React.StrictMode>
