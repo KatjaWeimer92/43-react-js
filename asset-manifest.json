@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/KatjaWeimer92.github.io/43-react-js/static/css/main.ed40df23.css",
-    "main.js": "/KatjaWeimer92.github.io/43-react-js/static/js/main.3b983a79.js",
-    "index.html": "/KatjaWeimer92.github.io/43-react-js/index.html",
-    "main.ed40df23.css.map": "/KatjaWeimer92.github.io/43-react-js/static/css/main.ed40df23.css.map",
-    "main.3b983a79.js.map": "/KatjaWeimer92.github.io/43-react-js/static/js/main.3b983a79.js.map"
+    "main.css": "./static/css/main.ed40df23.css",
+    "main.js": "./static/js/main.3b983a79.js",
+    "index.html": "./index.html",
+    "main.ed40df23.css.map": "./static/css/main.ed40df23.css.map",
+    "main.3b983a79.js.map": "./static/js/main.3b983a79.js.map"
   },
   "entrypoints": [
     "static/css/main.ed40df23.css",
